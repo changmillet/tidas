@@ -91,4 +91,9 @@
     "message": "天工 LCA 平台说明文档",
     "description": "The label for link TianGong LCA Tutorial in sidebar tutorialSidebar"
   }
+  ,
+  "sidebar.tutorialSidebar.link.天工 LCA MCP": {
+    "message": "天工 LCA MCP",
+    "description": "The label for link 天工 LCA MCP in sidebar tutorialSidebar"
+  }
 }

@@ -23,4 +23,9 @@
     "message": "最も重要なDocusaurusの概念を学ぶのに5分。",
     "description": "The generated-index page description for category FAQ in sidebar tutorialSidebar"
   }
+  ,
+  "sidebar.tutorialSidebar.link.天工 LCA MCP": {
+    "message": "天工 LCA MCP",
+    "description": "The label for link 天工 LCA MCP in sidebar tutorialSidebar"
+  }
 }
