@@ -130,6 +130,12 @@ const sidebars: SidebarsConfig = {
           description: 'TianGong LCA Platform Documentation',
           href: 'https://docs.tiangong.earth/',
         },
+        {
+          type: 'link',
+          label: '天工 LCA MCP',
+          description: '天工 LCA MCP 文档',
+          href: 'https://docs.tiangong.earth/category/mcp',
+        },
       ],  
     },
     {
