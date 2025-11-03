@@ -31,4 +31,9 @@
     "message": "Schema Files Download",
     "description": "The label for link TIDAS JSON Schema Download in sidebar tutorialSidebar"
   }
+  ,
+  "sidebar.tutorialSidebar.link.天工 LCA MCP": {
+    "message": "TianGong LCA MCP",
+    "description": "The label for link TianGong LCA MCP in sidebar tutorialSidebar"
+  }
 }
