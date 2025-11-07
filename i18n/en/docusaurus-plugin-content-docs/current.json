@@ -36,4 +36,9 @@
     "message": "TianGong LCA MCP",
     "description": "The label for link TianGong LCA MCP in sidebar tutorialSidebar"
   }
-}
+,
+  "sidebar.tutorialSidebar.category.MCP Services and Ecology": {
+    "message": "MCP Services and Ecology",
+    "description": "The label for category MCP Services and Ecology in sidebar tutorialSidebar"
+  }
+  }

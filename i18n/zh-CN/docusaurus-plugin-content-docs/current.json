@@ -96,4 +96,9 @@
     "message": "天工 LCA MCP",
     "description": "The label for link 天工 LCA MCP in sidebar tutorialSidebar"
   }
+  ,
+  "sidebar.tutorialSidebar.category.MCP Services and Ecology": {
+    "message": "MCP 服务与生态",
+    "description": "The label for category MCP Services and Ecology in sidebar tutorialSidebar"
+  }
 }
